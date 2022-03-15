@@ -62,7 +62,7 @@
 
                                                 <input id="idUserSonidos" type="hidden" class="form-control-sm" name="idUserSonidos" value="{{Auth::user()->id}}" required>
                                                 <!--<input id="linksound" type="hidden" class="form-control-sm" name="linksound" value="elqeuseas" required>-->
-                                                <input id="totalreproductionsound" type="hidden" class="form-control-sm" name="totalreproductionsound" value="0" required>
+                                                <!--<input id="totalreproductionsound" type="hidden" class="form-control-sm" name="totalreproductionsound" value="0" required>-->
 
 
                                                 <label for="titlesound" class="col-md-2 col-form-label text-md-end">{{ __('Titulo') }}</label>

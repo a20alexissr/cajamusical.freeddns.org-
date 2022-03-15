@@ -73,8 +73,8 @@
                             <table>
                                 <thead>
                                 <tr>
-                                    <td><h3>titulo</h3></td>
-                                    <td><h3>cancion</h3></td>
+                                    <td><h3>Titulo</h3></td>
+                                    <td><h3>Cancion</h3></td>
                                 </tr>
                                 </thead>
 

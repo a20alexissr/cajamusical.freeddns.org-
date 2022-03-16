@@ -31,6 +31,7 @@
             <div>
         </div>
     </div>
+
         <div class="row justify-content-sx-start">
             <div class="col-sm-4">
                 <div class="card">

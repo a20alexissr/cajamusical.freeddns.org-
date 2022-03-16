@@ -170,7 +170,7 @@
                                                             <input id="category2sound" type="radio" class="form-check-input" name="category2sound" value="Epico" required>
                                                         </div>
                                                         <div>
-                                                            <label for="category2sound" class="col-md-2 col-form-label text-md-end">{{ __('ninguna') }}</label>
+                                                            <label for="category2sound" class="col-md-2 col-form-label text-md-end">{{ __('Ninguna') }}</label>
                                                             <input id="category2sound" type="radio" class="form-check-input" name="category2sound" value="ninguna" required>
                                                         </div>
 
@@ -221,7 +221,7 @@
                                                             <input id="category3sound" type="radio" class="form-check-input" name="category3sound" value="dolor" required>
                                                         </div>
                                                         <div>
-                                                            <label for="category3sound" class="col-md-2 col-form-label text-md-end">{{ __('ninguna') }}</label>
+                                                            <label for="category3sound" class="col-md-2 col-form-label text-md-end">{{ __('Ninguna') }}</label>
                                                             <input id="category3sound" type="radio" class="form-check-input" name="category3sound" value="ninguna" required>
                                                         </div>
                                                     </div>

@@ -164,7 +164,7 @@
                                                         </div>
                                                         <div>
                                                             <label for="category2music" class="col-md-2 col-form-label text-md-end">{{ __('Suspense') }}</label>
-                                                            <input id="category2music" type="radio" class="form-check-input" name="category2music" value="Suspense" required>
+                                                            <input id="category2music" type="radio" class="form-check-input" name="category2music" value="suspense" required>
                                                         </div>
                                                         <div>
 
@@ -177,10 +177,10 @@
                                                         </div>
                                                         <div>
                                                             <label for="category2music" class="col-md-2 col-form-label text-md-end">{{ __('Epico') }}</label>
-                                                            <input id="category2music" type="radio" class="form-check-input" name="category2music" value="Epico" required>
+                                                            <input id="category2music" type="radio" class="form-check-input" name="category2music" value="epico" required>
                                                         </div>
                                                         <div>
-                                                            <label for="category2music" class="col-md-2 col-form-label text-md-end">{{ __('ninguna') }}</label>
+                                                            <label for="category2music" class="col-md-2 col-form-label text-md-end">{{ __('Ninguna') }}</label>
                                                             <input id="category2music" type="radio" class="form-check-input" name="category2music" value="ninguna" required>
                                                         </div>
 
@@ -231,7 +231,7 @@
                                                             <input id="category3music" type="radio" class="form-check-input" name="category3music" value="dolor" required>
                                                         </div>
                                                         <div>
-                                                            <label for="category3music" class="col-md-2 col-form-label text-md-end">{{ __('ninguna') }}</label>
+                                                            <label for="category3music" class="col-md-2 col-form-label text-md-end">{{ __('Ninguna') }}</label>
                                                             <input id="category3music" type="radio" class="form-check-input" name="category3music" value="ninguna" required>
                                                         </div>
                                                     </div>
